@@ -23,7 +23,7 @@ int main() {
     printf("You entered %d\n", x);  // tell the user what number they just entered
     
     /* Normally I would not put a comment on every line of code.
-       I just did it above because you are learning this from nothing.
+       I just did it above because you are learning C for the first time.
        I would only put a comment on a line if it was hard to understand or required that you
        know something that is not entirely obvious by looking at the code.
     */
