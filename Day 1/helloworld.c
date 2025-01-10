@@ -1,6 +1,7 @@
 #include <stdio.h>
-int main() {
+int main()
+{
     char s[100];
     printf("Hello world\n");
-    fgets(s,100,stdin);
+    fgets(s, 100, stdin);
 }
